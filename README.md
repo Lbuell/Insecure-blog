@@ -43,10 +43,16 @@ and used a few free security scans and they found no issues.
 Summary
 
 Scanned/Reported	Total
+
 Controllers	4
+
 Models	3
+
 Templates	21
+
 Errors	0
+
 Security Warnings	0 (0)
+
 Ignored Warnings	0
 
